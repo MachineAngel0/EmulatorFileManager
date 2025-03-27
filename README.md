@@ -28,4 +28,4 @@ Usage Manual:
 
 Notes:
 - Sometimes it the find emulator button will find the wrong .exe file, manually adjust will be needed
-- Some .exe's will not launch because of certain visual studio packages not bieng installed on the the users computer (Will look into a different file extraction library) 
+- Some .exe's will not launch because of specific visual studio packages not being installed on the users computer (Will look into a different file extraction library) 
