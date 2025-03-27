@@ -22,7 +22,7 @@ Usage Manual:
 - Select a Folder Button - Allows you to manually set the file location of the chosen emulators '.exe'.
 - Opening an Emulator - To open an emulator from the application, press "Launch" on the right-hand side to open the corresponding emulator
 - Setting Game File - Allows you to manually set the location of the corresponding emulators game/rom folder (meant to be used with the File Extract, read further for instruction usage)
-- File Extraction - To the right of "Zip/Rar/7z Location" is a button that will by default say "C://". Click on that to file the file you wish to extract. To the right of "Select Emulator" is a drop-down menu to pick the corresponding emulator game/rom folder you wish to extract to. Make sure to set your emulators game folder (see previous instruction). To extract the file, click on the "Extract" button; this will create a new folder with the name of the extracted file within the corresponding game folder; within the new folder will be the extracted contents of the file and the original file.  
+- File Extraction - To the right of "Zip/Rar/7z Location" is a button that will by default say "C://". Click on "C://" then find the file you wish to extract. To the right of "Select Emulator" is a drop-down menu to pick the corresponding emulator game/rom folder you wish to extract to. Make sure to set your emulators game folder (see previous instruction). To extract the file, click on the "Extract" button; this will create a new folder with the name of the extracted file within the corresponding game folder; within the new folder will be the extracted contents of the file and the original file.  
 - Enjoy!
 
 
