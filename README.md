@@ -2,6 +2,8 @@ Emulator File Manager
 
 A Desktop Application made in Python to keep track of emulator files and to launch emulators from 
 
+![alt text](https://github.com/MachineAngel0/EmulatorFileManager/blob/master/Emu_Image_Ref.png?raw=true "Emulator Image")
+
 Not Tested On Linux or Mac
 
 Made at the request of a friend
