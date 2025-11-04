@@ -29,5 +29,5 @@ Usage Manual:
 
 
 Notes:
-- Sometimes the find emulator button will find the wrong .exe file, manually adjust will be needed
+- Sometimes the find emulator button will find the wrong .exe file, you will have to manually correct it.
 - Some .exe's will not launch because of specific visual studio packages not being installed on the users computer
